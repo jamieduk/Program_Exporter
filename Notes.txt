@@ -1,0 +1,26 @@
+Export Program Script (c) J~Net 2021
+jnet.sytes.net
+
+
+Forum Link
+https://jnet.forumotion.com/t1736-bash-program-exporter-script#2687
+
+This script will copy the program if the program exists. (To current folder).
+
+If it does not exist it will attempt to install it!
+
+
+Example Usage:
+
+
+./export.sh gobuster
+
+
+Any issues contact me via forum comment link
+
+https://jnet.forumotion.com/t1736-bash-program-exporter-script#2687
+ 
+
+
+Not all version will use the example i use so no garantees given here!
+
